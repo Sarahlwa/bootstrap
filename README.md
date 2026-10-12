@@ -4,7 +4,7 @@ A simple and responsive pricing section built using **HTML and Bootstrap**. This
 
 ## 📸 Screenshot
 
-
+![image alt](https://github.com/Sarahlwa/bootstrap/blob/0b0fa4bd0c114d792c87dc6320889d70a9bd69bd/Screenshot%202026-10-12%20110615.png)
 
 ## 🚀 Features
 
